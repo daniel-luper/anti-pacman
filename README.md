@@ -33,3 +33,5 @@ Use 'Programs and Features' in the Control Panel to uninstall.
 2. Launch Visual Studio
 3. Open the project (File->Open->Project/Solution->Browse to the 'AntiPacman.sln' file)
 4. Hit run
+
+Version 1.1 now available here: https://www.dropbox.com/s/cx145h07jun342j/AntiPacman_v1.1.zip?dl=0
