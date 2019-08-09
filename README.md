@@ -22,7 +22,7 @@ This beginner, solo-developed project suddenly increased in scope, making this a
 ## Installation
 #### Download (Windows 64-bit)
 1. Download zip from [here](https://www.dropbox.com/s/byiiau5vjlvprr0/AntiPacman.zip?dl=0)
-2. Extract to 'AntiPacman'
+2. Extract zip
 3. Run setup.exe
 
 Game should automatically launch after installation. There is also a desktop shortcut that gets added.
