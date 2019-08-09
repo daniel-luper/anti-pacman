@@ -25,7 +25,7 @@ This beginner, solo-developed project suddenly increased in scope, making this a
 2. Extract to 'AntiPacman'
 3. Run setup.exe
 
-Game should launch automatically after installation. There is also a desktop shortcut that gets added.
+Game should automatically launch after installation. There is also a desktop shortcut that gets added.
 Use 'Programs and Features' in the Control Panel to uninstall.
 
 #### Build from source
