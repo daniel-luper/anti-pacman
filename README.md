@@ -21,7 +21,7 @@ This beginner, solo-developed project suddenly increased in scope, making this a
 
 ## Installation
 #### Download (Windows 64-bit)
-1. Download zip from [here](https://www.dropbox.com/s/hg77yhmzwlkt6hq/AntiPacman.zip?dl=0)
+1. Download zip from [here](https://www.dropbox.com/s/hg77yhmzwlkt6hq/anti-pacman_v1.0.zip?dl=0)
 2. Extract zip
 3. Run setup.exe
 
@@ -33,5 +33,3 @@ Use 'Programs and Features' in the Control Panel to uninstall.
 2. Launch Visual Studio
 3. Open the project (File->Open->Project/Solution->Browse to the 'AntiPacman.sln' file)
 4. Hit run
-
-Version 1.1 now available here: https://www.dropbox.com/s/cx145h07jun342j/AntiPacman_v1.1.zip?dl=0
