@@ -1,0 +1,13 @@
+﻿OPTIONS PANEL
+
+Fullscreen		|X| or | |
+
+CONTROLS
+
+AUDIO
+Master			<-------->
+Music			<-------->
+Sound effects	<-------->
+Mute all		|X| or | |
+
+

@@ -1,0 +1,10 @@
+ 1st   10000    SDE
+ 2nd    7500    JDL
+ 3rd    5000    HAI
+ 4th    2500    OPH
+ 5th    1500    JIM
+ 6th    1000    TMM
+ 7th     500    MAK
+ 8th     250    MIK
+ 9th     100    XOF
+10th      50    BIT
