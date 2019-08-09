@@ -24,6 +24,7 @@ This beginner, solo-developed project suddenly increased in scope, making this a
 1. Download zip from [here](https://www.dropbox.com/s/byiiau5vjlvprr0/AntiPacman.zip?dl=0)
 2. Extract to 'AntiPacman'
 3. Run setup.exe
+
 Game should launch automatically after installation. There is also a desktop shortcut that gets added.
 Use 'Programs and Features' in the Control Panel to uninstall.
 
