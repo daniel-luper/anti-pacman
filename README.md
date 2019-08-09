@@ -32,4 +32,4 @@ Use 'Programs and Features' in the Control Panel to uninstall.
 1. Install Monogame
 2. Launch Visual Studio
 3. Open the project (File->Open->Project/Solution->Browse to the 'AntiPacman.sln' file)
-4. Hit run
+4. Build and run the project (it might be necessary to clean it first)
