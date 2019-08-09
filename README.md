@@ -5,7 +5,7 @@ Proof of concept for a Pacman game "gone wrong". Written in C# using the XNA-ins
 #### The concept
 You start up an old Pacman game in the arcade. It looks and sounds a bit strange, a bit glitchy.
 You press start and discover that Pacman and the Ghosts appear to have switched rolls!
-**_Pacman chases the ghosts, the ghosts eat the dots_**
+**_Pacman chases the ghosts, the ghosts eat the dots._**
 
 #### Controls
 - Arrow keys to move and navigate menus
