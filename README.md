@@ -2,7 +2,7 @@
 Proof of concept for a Pacman game "gone wrong". Written in C# using the XNA-inspired Monogame framework.
 
 ## The game
-#### The concept
+#### Concept
 You start up an old Pacman game in the arcade. It looks and sounds a bit strange, a bit glitchy.
 You press start and discover that Pacman and the Ghosts appear to have switched rolls!
 **_Pacman chases the ghosts, the ghosts eat the dots._**
@@ -12,7 +12,7 @@ You press start and discover that Pacman and the Ghosts appear to have switched 
 - Escape to go back
 - Space to select
 
-#### The problem
+#### Problems
 The original Pacman is a cleverly designed game whose simple mechanics are naturally fun to the player.
 However, while working on this project, I realized that *just* flipping the roles would not be very entertaining gameplay...
 
