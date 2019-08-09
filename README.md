@@ -1,4 +1,4 @@
-# AntiPacman
+# Anti Pacman
 Proof of concept for a Pacman game "gone wrong". Written in C# using the XNA-inspired Monogame framework.
 
 ## The game
