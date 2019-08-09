@@ -20,8 +20,12 @@ There needs to be advanced AI, flashy visual effects, additional game mechanics,
 This beginner, solo-developed project suddenly increased in scope, making this a 'failed' proof of concept, in the sense that my original idea was not sufficient. Maybe a bigger team could create a full game.
 
 ## Installation
-#### Download (64-bit)
-Coming soon
+#### Download (Windows 64-bit)
+1. Download zip from [here](https://www.dropbox.com/s/byiiau5vjlvprr0/AntiPacman.zip?dl=0)
+2. Extract to 'AntiPacman'
+3. Run setup.exe
+Game should launch automatically after installation. There is also a desktop shortcut that gets added.
+Use 'Programs and Features' in the Control Panel to uninstall.
 
 #### Build from source
 1. Install Monogame
