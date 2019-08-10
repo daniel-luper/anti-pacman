@@ -1,5 +1,5 @@
 # Anti Pacman
-Proof of concept for a Pacman game "gone wrong". Written in C# using the XNA-inspired Monogame framework.
+Proof of concept for a Pacman game "gone wrong". Written in C# using the XNA-inspired [MonoGame](http://www.monogame.net/) framework.
 
 ## The game
 #### Concept
@@ -29,7 +29,7 @@ Game should automatically launch after installation. There is also a desktop sho
 Use 'Programs and Features' in the Control Panel to uninstall.
 
 #### Build from source
-1. Install Monogame
+1. Install Monogame 3.6
 2. Launch Visual Studio
 3. Open the project (File->Open->Project/Solution->Browse to the 'AntiPacman.sln' file)
 4. Build and run the project (it might be necessary to clean it first)
