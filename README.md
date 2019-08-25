@@ -8,8 +8,8 @@ You press start and discover that Pacman and the Ghosts appear to have switched 
 **_Pacman chases the ghosts, the ghosts eat the dots._**
 
 #### Screenshots
-<img src="https://media.giphy.com/media/Y0nXu8Eb6R2Za9ATXD/giphy.gif" height=108 width=192>
-<img src="https://media.giphy.com/media/Y0nXu8Eb6R2Za9ATXD/giphy.gif" height=108 width=192>
+<img src="https://media.giphy.com/media/RKMmTLvGyO8KuuqZF3/giphy.gif" height=162 width=288>
+<img src="https://media.giphy.com/media/Y0nXu8Eb6R2Za9ATXD/giphy.gif" height=162 width=288>
 
 #### Controls
 - Arrow keys to move and navigate menus
