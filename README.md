@@ -9,7 +9,7 @@ You press start and discover that Pacman and the Ghosts appear to have switched 
 
 
 <img src="https://media.giphy.com/media/XaFiVCmcgvIkowGbMV/giphy.gif" height=324 width=250> <img src="https://i.imgur.com/EqPjm5r.png" height=324 width=576>
-<img src="https://media.giphy.com/media/Y0nXu8Eb6R2Za9ATXD/giphy.gif" height=216 width=415> <img src="https://media.giphy.com/media/RKMmTLvGyO8KuuqZF3/giphy.gif" height=216 width=415>
+<img src="https://media.giphy.com/media/Y0nXu8Eb6R2Za9ATXD/giphy.gif" height=216 width=414> <img src="https://media.giphy.com/media/RKMmTLvGyO8KuuqZF3/giphy.gif" height=216 width=414>
 
 #### Controls
 - Arrow keys to move and navigate menus
