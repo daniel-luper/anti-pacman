@@ -7,9 +7,9 @@ You start up an old Pacman game in the arcade. It looks and sounds a bit strange
 You press start and discover that Pacman and the Ghosts appear to have switched rolls!
 **_Pacman chases the ghosts, the ghosts eat the dots._**
 
-#### Screenshots
-<img src="https://media.giphy.com/media/RKMmTLvGyO8KuuqZF3/giphy.gif" height=162 width=288>
-<img src="https://media.giphy.com/media/Y0nXu8Eb6R2Za9ATXD/giphy.gif" height=162 width=288>
+<img src="https://media.giphy.com/media/Y0nXu8Eb6R2Za9ATXD/giphy.gif" height=135 width=240>
+<img src="https://media.giphy.com/media/RKMmTLvGyO8KuuqZF3/giphy.gif" height=135 width=240>
+
 
 #### Controls
 - Arrow keys to move and navigate menus
